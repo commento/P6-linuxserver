@@ -6,6 +6,7 @@ The idea is to deploy an app on a linux machine using aws service.
 1. The IP address: http://34.201.6.110/ and SSH port: 2200
 2. The complete URL to your hosted web application: http://34.201.6.110/
 3. History:
+
  number       | command executed
 ------------- | -------------
     1         | adduser grader
